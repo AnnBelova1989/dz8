@@ -1,0 +1,14 @@
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/bin/Debug/net7.0/domz4
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/bin/Debug/net7.0/domz4.deps.json
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/bin/Debug/net7.0/domz4.runtimeconfig.json
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/bin/Debug/net7.0/domz4.dll
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/bin/Debug/net7.0/domz4.pdb
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.AssemblyInfoInputs.cache
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.AssemblyInfo.cs
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.csproj.CoreCompileInputs.cache
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.dll
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/refint/domz4.dll
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.pdb
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/domz4.genruntimeconfig.cache
+/Users/annabelova/Desktop/учеба/домашки/занятие 8/domz4/obj/Debug/net7.0/ref/domz4.dll
